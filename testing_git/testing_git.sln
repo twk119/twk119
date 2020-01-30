@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "testing_git", "testing_git.vcxproj", "{D04B7131-A1CC-4254-8EA5-188677140C8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D04B7131-A1CC-4254-8EA5-188677140C8A}.Debug|x64.ActiveCfg = Debug|x64
+		{D04B7131-A1CC-4254-8EA5-188677140C8A}.Debug|x64.Build.0 = Debug|x64
+		{D04B7131-A1CC-4254-8EA5-188677140C8A}.Debug|x86.ActiveCfg = Debug|Win32
+		{D04B7131-A1CC-4254-8EA5-188677140C8A}.Debug|x86.Build.0 = Debug|Win32
+		{D04B7131-A1CC-4254-8EA5-188677140C8A}.Release|x64.ActiveCfg = Release|x64
+		{D04B7131-A1CC-4254-8EA5-188677140C8A}.Release|x64.Build.0 = Release|x64
+		{D04B7131-A1CC-4254-8EA5-188677140C8A}.Release|x86.ActiveCfg = Release|Win32
+		{D04B7131-A1CC-4254-8EA5-188677140C8A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5F908FC-A632-4A05-B117-9C9C3EE785D6}
+	EndGlobalSection
+EndGlobal
